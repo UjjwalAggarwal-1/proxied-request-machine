@@ -17,3 +17,5 @@ the variables like int:b_id need to be tried out, also the query param conventio
 thats all, i think.
 
 
+OASIS'22, THE 5OTH ONE
+Tried this module for proxies, but it would appear that the proxies are short lived and thus give an error connection refused to proxy, and thus the script is ineffective.
