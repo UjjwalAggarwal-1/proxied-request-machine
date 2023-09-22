@@ -14,6 +14,9 @@ the variables like int:b_id need to be tried out, also the query param conventio
 6. using own jwt is risky, thankfully the fresher account exists
 7. i see one url available on fresher jwt with a big response.
 
+Fresher
+BITS_DVM
+
 thats all, i think.
 
 
